@@ -1,0 +1,30 @@
+.centre{
+    margin: auto;
+    padding: 2em;
+    background: rgba(209, 180, 117, 0.925);
+    max-width: 950px;
+    background-size: 200%;
+    box-shadow: inset 0 0 20px 3px rgb(196, 104, 17);
+}
+
+.contain2{
+    margin: auto;
+    width: 40vh;
+    height: 40vh;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    place-items: center;
+    box-shadow: inset 0 0 20px 3px rgb(196, 104, 17);
+    animation: myanimation 15s infinite alternate;
+    background: repeating-linear-gradient(45deg,rgba(21, 255, 0, 0.8), rgba(128, 77, 0, 0.8) 50px, rgba(2, 0, 128, 0.8) 60px);
+}
+.art2{
+    box-shadow: -20px -20px 20px 0px rgba(0, 0, 0, 0.753) ;
+    width: 200px;
+    height: 200px;
+    border-radius: 30%;
+    background-image: repeating-radial-gradient(farthest-corner at
+    100px 100px, rgba(0, 38, 255, 0.6) 30%, rgba(0, 247, 255, 0.6) 60% );
+}

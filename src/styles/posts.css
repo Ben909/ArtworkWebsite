@@ -1,0 +1,42 @@
+.centreblog{
+    margin: auto;
+    padding: 2em;
+    background: rgba(209, 180, 117, 0.925);
+    max-width: 950px;
+    background-size: 200%;
+    box-shadow: inset 0 0 20px 3px rgb(196, 104, 17);
+}
+.centreblog p{
+    font-size: 18px;
+    line-height: 19pt;
+    text-align: justify;
+}
+.next button{
+    margin-left: -2px;
+    background: #b68929;
+    margin: 10px;
+    color: rgb(3, 0, 44);
+    width: 140px;
+    height: 40px;
+    border: 2px solid rgb(109, 46, 9);
+    font-size: 18px;
+    border-radius: 4px;
+    overflow: hidden;
+}
+.next button:focus{
+    outline: none;
+}
+.next button:hover{
+    background: rgba(209, 180, 117, 0.925);
+    cursor: pointer;
+}
+
+.artprev{
+    margin: auto;
+    padding: 100px;
+}
+.artprev img{
+    padding: 10px;
+    width: 350px;
+    height: 350px;
+}
