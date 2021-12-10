@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/ArtworkWebsite/static/css/main.a15ac994.chunk.css",
+    "main.js": "/ArtworkWebsite/static/js/main.09d709cb.chunk.js",
+    "main.js.map": "/ArtworkWebsite/static/js/main.09d709cb.chunk.js.map",
+    "runtime-main.js": "/ArtworkWebsite/static/js/runtime-main.0a5f6669.js",
+    "runtime-main.js.map": "/ArtworkWebsite/static/js/runtime-main.0a5f6669.js.map",
+    "static/js/2.807b4e64.chunk.js": "/ArtworkWebsite/static/js/2.807b4e64.chunk.js",
+    "static/js/2.807b4e64.chunk.js.map": "/ArtworkWebsite/static/js/2.807b4e64.chunk.js.map",
+    "static/js/3.9ccce126.chunk.js": "/ArtworkWebsite/static/js/3.9ccce126.chunk.js",
+    "static/js/3.9ccce126.chunk.js.map": "/ArtworkWebsite/static/js/3.9ccce126.chunk.js.map",
+    "index.html": "/ArtworkWebsite/index.html",
+    "static/css/main.a15ac994.chunk.css.map": "/ArtworkWebsite/static/css/main.a15ac994.chunk.css.map",
+    "static/js/2.807b4e64.chunk.js.LICENSE.txt": "/ArtworkWebsite/static/js/2.807b4e64.chunk.js.LICENSE.txt",
+    "static/media/artanalysis.84a5ea1a.png": "/ArtworkWebsite/static/media/artanalysis.84a5ea1a.png",
+    "static/media/artisticreflection-min.9d3388e0.png": "/ArtworkWebsite/static/media/artisticreflection-min.9d3388e0.png",
+    "static/media/artone-min.d219af37.png": "/ArtworkWebsite/static/media/artone-min.d219af37.png",
+    "static/media/arttwo-min.d7968438.png": "/ArtworkWebsite/static/media/arttwo-min.d7968438.png",
+    "static/media/artworkanalysis-min.b83ddfb3.png": "/ArtworkWebsite/static/media/artworkanalysis-min.b83ddfb3.png",
+    "static/media/codecrit.ce67d586.png": "/ArtworkWebsite/static/media/codecrit.ce67d586.png",
+    "static/media/critreflect.99a0c886.png": "/ArtworkWebsite/static/media/critreflect.99a0c886.png",
+    "static/media/decolonize.21287560.png": "/ArtworkWebsite/static/media/decolonize.21287560.png",
+    "static/media/digitaldivide-min.894dfed9.png": "/ArtworkWebsite/static/media/digitaldivide-min.894dfed9.png",
+    "static/media/logovisual-min.e2dbd0f3.png": "/ArtworkWebsite/static/media/logovisual-min.e2dbd0f3.png",
+    "static/media/techreflect.be2ea75f.png": "/ArtworkWebsite/static/media/techreflect.be2ea75f.png",
+    "static/media/techreflection-min.7bd28915.png": "/ArtworkWebsite/static/media/techreflection-min.7bd28915.png",
+    "static/media/wireframe-min.593717b6.png": "/ArtworkWebsite/static/media/wireframe-min.593717b6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0a5f6669.js",
+    "static/js/2.807b4e64.chunk.js",
+    "static/css/main.a15ac994.chunk.css",
+    "static/js/main.09d709cb.chunk.js"
+  ]
+}
